@@ -39,6 +39,5 @@ A InfinitArt DAO tem como missão criar, promover e gerir coleções artísticas
 
 ## Links úteis
 
-- [GitHub]([https://github.com](https://github.com/JeffersonCapela))
+- [GitHub](https://github.com/JeffersonCapela)
 - [OpenSea](https://opensea.io/collection/traktor-tunning)
-
