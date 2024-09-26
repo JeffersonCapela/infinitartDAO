@@ -2,6 +2,8 @@
 
 **InfinitArt DAO** – Referenciando a infinita possibilidade de criações artísticas digitais.
 
+![InfinitArt DAO Logo](Leonardo_Lightning_XL_Create_a_modern_minimalist_logo_for_Infi_2 (2).jpg)
+
 ## Missão
 
 A InfinitArt DAO tem como missão criar, promover e gerir coleções artísticas digitais exclusivas, explorando o potencial infinito da arte digital por meio de NFTs. Nossa comunidade toma as decisões chave sobre quais projetos artísticos devem ser lançados e promovidos, garantindo que cada coleção seja um reflexo dos interesses coletivos e da visão artística da DAO.
