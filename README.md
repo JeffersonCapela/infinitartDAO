@@ -2,7 +2,7 @@
 
 **InfinitArt DAO** – Referenciando a infinita possibilidade de criações artísticas digitais.
 
-![InfinitArt DAO Logo](Leonardo_Lightning_XL_Create_a_modern_minimalist_logo_for_Infi_2 (2).jpg)
+![InfinitArt DAO Logo](Leonardo_Lightning_XL_Create_a_modern_minimalist_logo_for_Infi_2%20(2).jpg)
 
 ## Missão
 
